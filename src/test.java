@@ -2,7 +2,10 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
-
+/*
+ * 可使用的固定钱，  最多可买多少物品
+ * 
+ * */
 public class test {
 
 	public static void main(String[] args) {

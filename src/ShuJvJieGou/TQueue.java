@@ -1,0 +1,5 @@
+package ShuJvJieGou;
+
+class TQueue {
+
+}

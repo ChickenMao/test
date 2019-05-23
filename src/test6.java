@@ -1,4 +1,6 @@
-
+/*
+ * 冒泡排序
+ * */
 public class test6 {
 	public static void maopao(int []a){
 		int temp;

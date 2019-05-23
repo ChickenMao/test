@@ -1,7 +1,9 @@
 import java.util.Scanner;
 import java.util.Timer;
 import java.util.TimerTask;
-
+/*
+ * 密文
+ * */
 public class test2 {
 	private static void  move(String x[] ,int n){
 		n%=x.length;

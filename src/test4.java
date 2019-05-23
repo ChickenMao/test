@@ -2,6 +2,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 
+/*
+ * 
+ * 交叉插入
+ * */
 public class test4 {
 
 	

@@ -1,7 +1,9 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-
+/*
+ * 保龄球
+ * */
 public class test5 {
 	
 	public static int flag[] =new int[10];//判断状态： 0： 2次没中10；， 1 ：补中 ；2：第一次全中
